@@ -17,8 +17,6 @@ btn.addEventListener("click", function (e) {
         console.log("write properly")
     }
 
-
-
 })
 
 function createContact() {
